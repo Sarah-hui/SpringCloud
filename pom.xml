@@ -8,6 +8,7 @@
   <modules>
     <module>eureka-server</module>
     <module>productDataService</module>
+      <module>productViewServiceRibbon</module>
   </modules>
   <name>springcloud</name>
   <description>springcloud</description>
