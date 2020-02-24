@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="product-view-service-ribbon" />
+        <module name="productViewServiceFeign" />
         <module name="productDataService" />
         <module name="product-data-service" />
         <module name="productViewServiceRibbon" />
@@ -25,6 +26,7 @@
       <module name="product-data-service" options="-parameters" />
       <module name="product-view-service-ribbon" options="-parameters" />
       <module name="productDataService" options="-parameters" />
+      <module name="productViewServiceFeign" options="-parameters" />
       <module name="productViewServiceRibbon" options="-parameters" />
     </option>
   </component>
