@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9463f480-187b-411b-ba4c-96f804a3735c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/productViewServiceFeign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/client/ProductClientFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/pojo/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/resources/templates/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productDataService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productDataService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productDataService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/productDataService/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productViewServiceFeign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productViewServiceFeign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,22 +33,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productViewServiceRibbon/src/main/java/springcloud/ProductViewServiceRibbonApplication.java">
+        <entry file="file://$PROJECT_DIR$/productViewServiceFeign/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="344">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productViewServiceFeign/pom.xml">
+        <entry file="file://$PROJECT_DIR$/productDataService/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="133">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -62,42 +53,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-393">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="179">
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2122#2123#0" expanded="true" />
+                <element signature="e#2166#2167#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/pojo/Product.java">
+        <entry file="file://$PROJECT_DIR$/productDataService/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/client/ProductClientFeign.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/service/ProductService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="386">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -106,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/productViewServiceRibbon/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="29" lean-forward="true" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -131,8 +102,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="152">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1982#1983#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/maven/repository/io/zipkin/brave/brave/5.1.0/brave-5.1.0.jar!/brave/sampler/Sampler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -171,14 +165,11 @@
         <option value="$PROJECT_DIR$/eureka-server/application.yml" />
         <option value="$PROJECT_DIR$/eureka-server/src/test/java/cn/how2j/springcloud/AppTest.java" />
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/productDataService/pom.xml" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/Product.java" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/pojo/Product.java" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/service/ProductService.java" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/ProductDataServiceApplication.java" />
-        <option value="$PROJECT_DIR$/productDataService/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java" />
         <option value="$PROJECT_DIR$/productViewServiceRibbon/pom.xml" />
         <option value="$PROJECT_DIR$/productViewServiceRibbon/src/main/java/springcloud/pojo/Product.java" />
         <option value="$PROJECT_DIR$/productDataService/src/main/java/springCloud/client/ProductClientRibbon.java" />
@@ -189,7 +180,6 @@
         <option value="$PROJECT_DIR$/productViewServiceRibbon/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/productViewServiceRibbon/src/main/resources/templates/products.html" />
         <option value="$PROJECT_DIR$/productViewServiceRibbon/src/main/java/springcloud/ProductViewServiceRibbonApplication.java" />
-        <option value="$PROJECT_DIR$/productViewServiceFeign/pom.xml" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/springcloud/ProductViewServiceFeignApplication.java" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/springcloud/pojo/Product.java" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/pojo/Product.java" />
@@ -197,7 +187,11 @@
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/service/ProductService.java" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductController.java" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/productDataService/pom.xml" />
+        <option value="$PROJECT_DIR$/productViewServiceFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/productDataService/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java" />
         <option value="$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java" />
       </list>
     </option>
@@ -353,26 +347,7 @@
               <item name="productViewServiceFeign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parentMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parentMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="productViewServiceFeign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parentMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parentMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="productViewServiceFeign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -523,7 +498,7 @@
       <workItem from="1582254770902" duration="7711000" />
       <workItem from="1582272988594" duration="1401000" />
       <workItem from="1582355585039" duration="10967000" />
-      <workItem from="1582528832648" duration="8549000" />
+      <workItem from="1582528832648" duration="11053000" />
     </task>
     <task id="LOCAL-00001" summary="注册数据微服务">
       <created>1582269887811</created>
@@ -539,16 +514,23 @@
       <option name="project" value="LOCAL" />
       <updated>1582547236878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="视图微服务—feign">
+      <created>1582550638988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582550638988</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41758000" />
+    <option name="totallyTimeSpent" value="44262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36762482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36762482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -558,7 +540,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4675768" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.45392492" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.39078498" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -589,7 +571,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="注册数据微服务" />
     <MESSAGE value="视图微服务—Ribbon" />
-    <option name="LAST_COMMIT_MESSAGE" value="视图微服务—Ribbon" />
+    <MESSAGE value="视图微服务—feign" />
+    <option name="LAST_COMMIT_MESSAGE" value="视图微服务—feign" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/how2j/TestHutool.java" />
@@ -602,13 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/productDataService/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -675,27 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productDataService/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/maven/repository/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/builder/SpringApplicationBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/productViewServiceFeign/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/pojo/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-233" />
@@ -891,23 +843,65 @@
     <entry file="file://$PROJECT_DIR$/productViewServiceRibbon/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="29" lean-forward="true" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productDataService/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productViewServiceFeign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productDataService/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productDataService/src/main/java/springCloud/ProductDataServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/io/zipkin/brave/brave/5.1.0/brave-5.1.0.jar!/brave/sampler/Sampler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/productViewServiceFeign/src/main/java/feign/ProductViewServiceFeignApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-393">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="179">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2122#2123#0" expanded="true" />
+            <element signature="e#2166#2167#0" expanded="true" />
           </folding>
         </state>
       </provider>
