@@ -7,9 +7,11 @@
     <file url="file://$PROJECT_DIR$/productDataService" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/productViewServiceFeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/productViewServiceRibbon" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud3" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud3/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud3/product-data-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../springcloud3/product-view-service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-data-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-view-service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-view-service-ribbon" charset="UTF-8" />
   </component>
 </project>
