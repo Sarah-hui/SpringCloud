@@ -11,6 +11,8 @@
       <module>productViewServiceRibbon</module>
       <module>productViewServiceFeign</module>
       <module>configServer</module>
+      <module>hystrix-dashboard</module>
+      <module>turbine</module>
   </modules>
   <name>springcloud</name>
   <description>springcloud</description>
